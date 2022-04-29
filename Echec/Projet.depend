@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1431343415 source:c:\users\ghita\documents\codeblock\projet\main.cpp
+	<iostream>
+	"Position.h"
+	"Piece.h"
+	"Plateau.h"
+	"Echiquier.h"
+	"Damier.h"
+	"Pion.h"
+	<string>
+	<math.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1430254172 c:\users\ghita\documents\codeblock\projet\position.h
+	<string>
+
+1431339824 source:c:\users\ghita\documents\codeblock\projet\position.cpp
+	<iostream>
+	<string>
+	"Position.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\piece.cpp
+	<string>
+	<iostream>
+	"Piece.h"
+
+1430264158 c:\users\ghita\documents\codeblock\projet\piece.h
+	<string>
+	<iostream>
+	"Position.h"
+	"Plateau.h"
+
+1431335319 c:\users\ghita\documents\codeblock\projet\plateau.h
+	"Position.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\echiquier.cpp
+	<iostream>
+	<string>
+	"Position.h"
+	"Plateau.h"
+	"Piece.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Tour.h"
+	"Fou.h"
+	"Reine.h"
+	"Cheval.h"
+	"Roi.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1431330736 c:\users\ghita\documents\codeblock\projet\echiquier.h
+
+1431351805 source:c:\users\ghita\documents\codeblock\projet\plateau.cpp
+	<iostream>
+	<string>
+	"Position.h"
+	"Plateau.h"
+	"Piece.h"
+	"Roi.h"
+
+1431112334 c:\users\ghita\documents\codeblock\projet\pion.h
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\pion.cpp
+	<iostream>
+	"Plateau.h"
+	"Position.h"
+	"Piece.h"
+	"Pion.h"
+
+1430336940 c:\users\ghita\documents\codeblock\projet\tour.h
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+
+1431138777 source:c:\users\ghita\documents\codeblock\projet\tour.cpp
+	<iostream>
+	"Plateau.h"
+	"Piece.h"
+	"Tour.h"
+	"Position.h"
+
+1430336940 c:\users\ghita\documents\codeblock\projet\fou.h
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\fou.cpp
+	<iostream>
+	"Plateau.h"
+	"Position.h"
+	"Piece.h"
+	"Fou.h"
+
+1430337037 c:\users\ghita\documents\codeblock\projet\reine.h
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+	"Tour.h"
+	"Fou.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\reine.cpp
+	<iostream>
+	<string>
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+	"Reine.h"
+	"Tour.h"
+	"Fou.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\cheval.cpp
+	<iostream>
+	"Plateau.h"
+	"Position.h"
+	"Piece.h"
+	"Cheval.h"
+
+1430445715 c:\users\ghita\documents\codeblock\projet\cheval.h
+	"Position.h"
+	"Piece.h"
+	"Plateau.h"
+
+1431326125 source:c:\users\ghita\documents\codeblock\projet\roi.cpp
+	<iostream>
+	"Plateau.h"
+	"Piece.h"
+	"Roi.h"
+	"Position.h"
+
+1431336202 c:\users\ghita\documents\codeblock\projet\roi.h
+	"Piece.h"
+	"Position.h"
+	"Plateau.h"
+
+1431343109 c:\users\ghita\documents\codeblock\projet\damier.h
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\damier.cpp
+	<iostream>
+	<string>
+	"Position.h"
+	"Plateau.h"
+	"Piece.h"
+	"Damier.h"
+	"PionDame.h"
+	"Dame.h"
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+
+1431338696 c:\users\ghita\documents\codeblock\projet\piondame.h
+	"Piece.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\piondame.cpp
+	<iostream>
+	"Plateau.h"
+	"Position.h"
+	"Piece.h"
+	"PionDame.h"
+
+1431354107 source:c:\users\ghita\documents\codeblock\projet\dame.cpp
+	<iostream>
+	"Plateau.h"
+	"Position.h"
+	"Piece.h"
+	"Dame.h"
+
+1431342050 c:\users\ghita\documents\codeblock\projet\dame.h
+	"Piece.h"
+
